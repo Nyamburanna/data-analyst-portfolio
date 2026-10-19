@@ -1,0 +1,26 @@
+-- Create these measures in Power BI after importing retail_sales_synthetic.csv
+Total Sales = SUM(retail_sales_synthetic[Sales])
+
+Total Profit = SUM(retail_sales_synthetic[Profit])
+
+Total Orders = DISTINCTCOUNT(retail_sales_synthetic[OrderID])
+
+Units Sold = SUM(retail_sales_synthetic[Quantity])
+
+Average Sales per Order = DIVIDE([Total Sales], [Total Orders])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+
+Sales Previous Month =
+CALCULATE(
+    [Total Sales],
+    DATEADD('Date'[Date], -1, MONTH)
+)
+
+Sales MoM Change % =
+DIVIDE([Total Sales] - [Sales Previous Month], [Sales Previous Month])
+
+-- Model note:
+-- Create a Date table, relate Date[Date] to the sales OrderDate date column,
+-- and mark the Date table as a date table. If your imported table name differs,
+-- update the DAX table references.

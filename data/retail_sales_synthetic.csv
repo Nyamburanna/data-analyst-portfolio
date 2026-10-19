@@ -1,0 +1,601 @@
+OrderID,OrderDate,Region,Channel,Product,Category,Quantity,UnitPrice,DiscountRate,Sales,Cost,Profit
+ORD0521,2025-01-01,Rift Valley,Online,Wireless Mouse,Accessories,1,21.78,0.1,19.6,9,10.6
+ORD0447,2025-01-01,Western,Online,Wireless Mouse,Accessories,4,20.51,0.1,73.84,36,37.84
+ORD0023,2025-01-01,Central,Retail,Standing Desk,Furniture,6,387.71,0.1,2093.63,1740,353.63
+ORD0038,2025-01-02,Rift Valley,Retail,Notebook Pack,Office,7,12.82,0.05,85.25,28,57.25
+ORD0439,2025-01-02,Central,Online,Webcam,Electronics,2,79.68,0.1,143.42,88,55.42
+ORD0122,2025-01-02,Rift Valley,Retail,Keyboard,Accessories,7,36.06,0.1,227.18,112,115.18
+ORD0576,2025-01-03,Coast,Corporate,Laptop Stand,Accessories,8,26.7,0.05,202.92,96,106.92
+ORD0480,2025-01-04,Central,Corporate,Keyboard,Accessories,7,33.5,0.0,234.5,112,122.5
+ORD0367,2025-01-04,Coast,Online,Laptop Stand,Accessories,7,29.53,0.0,206.71,84,122.71
+ORD0368,2025-01-05,Nairobi,Corporate,Keyboard,Accessories,4,34.75,0.15,118.15,64,54.15
+ORD0542,2025-01-07,Coast,Corporate,Office Chair,Furniture,7,182.47,0.0,1277.29,805,472.29
+ORD0579,2025-01-08,Nairobi,Corporate,Desk Lamp,Office,6,39.92,0.15,203.59,126,77.59
+ORD0182,2025-01-09,Rift Valley,Corporate,Desk Lamp,Office,3,38.99,0.05,111.12,63,48.12
+ORD0246,2025-01-09,Nairobi,Corporate,Standing Desk,Furniture,4,405.97,0.0,1623.88,1160,463.88
+ORD0370,2025-01-09,Nairobi,Corporate,Laptop Stand,Accessories,5,30.14,0.15,128.09,60,68.09
+ORD0362,2025-01-09,Western,Corporate,Keyboard,Accessories,5,37.43,0.15,159.08,80,79.08
+ORD0502,2025-01-10,Rift Valley,Retail,Standing Desk,Furniture,7,418.63,0.05,2783.89,2030,753.89
+ORD0412,2025-01-12,Coast,Corporate,Wireless Mouse,Accessories,6,22.62,0.0,135.72,54,81.72
+ORD0336,2025-01-12,Coast,Corporate,USB-C Hub,Electronics,7,68.29,0.05,454.13,245,209.13
+ORD0001,2025-01-13,Nairobi,Corporate,Wireless Mouse,Accessories,5,21.03,0.0,105.15,45,60.15
+ORD0272,2025-01-14,Rift Valley,Corporate,Office Chair,Furniture,6,187.14,0.15,954.41,690,264.41
+ORD0239,2025-01-14,Central,Online,Desk Lamp,Office,7,41.3,0.0,289.1,147,142.1
+ORD0088,2025-01-14,Nairobi,Online,Standing Desk,Furniture,7,424.33,0.15,2524.76,2030,494.76
+ORD0469,2025-01-16,Nairobi,Retail,Wireless Mouse,Accessories,6,21.2,0.1,114.48,54,60.48
+ORD0030,2025-01-17,Central,Corporate,Wireless Mouse,Accessories,6,22.05,0.0,132.3,54,78.3
+ORD0163,2025-01-18,Central,Retail,Office Chair,Furniture,6,172.87,0.0,1037.22,690,347.22
+ORD0263,2025-01-18,Central,Retail,Office Chair,Furniture,3,177.19,0.0,531.57,345,186.57
+ORD0208,2025-01-22,Nairobi,Retail,Notebook Pack,Office,7,11.92,0.0,83.44,28,55.44
+ORD0429,2025-01-22,Rift Valley,Online,Standing Desk,Furniture,8,401.09,0.15,2727.41,2320,407.41
+ORD0281,2025-01-22,Western,Retail,Webcam,Electronics,1,72.33,0.0,72.33,44,28.33
+ORD0337,2025-01-24,Western,Online,Wireless Mouse,Accessories,7,22.71,0.05,151.02,63,88.02
+ORD0255,2025-01-25,Central,Retail,Desk Lamp,Office,6,39.48,0.05,225.04,126,99.04
+ORD0586,2025-01-25,Nairobi,Online,Webcam,Electronics,1,79.92,0.0,79.92,44,35.92
+ORD0554,2025-01-26,Rift Valley,Corporate,Office Chair,Furniture,6,178.31,0.0,1069.86,690,379.86
+ORD0547,2025-01-26,Nairobi,Retail,Monitor,Electronics,8,223.34,0.05,1697.38,1160,537.38
+ORD0492,2025-01-26,Coast,Online,Standing Desk,Furniture,5,441.51,0.05,2097.17,1450,647.17
+ORD0315,2025-01-26,Rift Valley,Retail,Monitor,Electronics,4,194.96,0.0,779.84,580,199.84
+ORD0596,2025-01-26,Central,Retail,Office Chair,Furniture,2,196.07,0.0,392.14,230,162.14
+ORD0303,2025-01-27,Western,Retail,Monitor,Electronics,8,210.81,0.0,1686.48,1160,526.48
+ORD0506,2025-01-29,Rift Valley,Retail,Standing Desk,Furniture,4,443.29,0.15,1507.19,1160,347.19
+ORD0375,2025-01-29,Rift Valley,Corporate,Office Chair,Furniture,1,172.65,0.0,172.65,115,57.65
+ORD0024,2025-01-30,Nairobi,Corporate,Monitor,Electronics,4,225.02,0.15,765.07,580,185.07
+ORD0193,2025-01-31,Rift Valley,Corporate,Standing Desk,Furniture,6,414.01,0.0,2484.06,1740,744.06
+ORD0435,2025-01-31,Coast,Online,Notebook Pack,Office,5,12.39,0.0,61.95,20,41.95
+ORD0536,2025-02-01,Western,Corporate,Standing Desk,Furniture,7,414.53,0.15,2466.45,2030,436.45
+ORD0176,2025-02-01,Nairobi,Retail,Desk Lamp,Office,7,39.92,0.05,265.47,147,118.47
+ORD0494,2025-02-01,Rift Valley,Retail,Laptop Stand,Accessories,4,26.65,0.0,106.6,48,58.6
+ORD0183,2025-02-02,Western,Corporate,Wireless Mouse,Accessories,8,22.98,0.1,165.46,72,93.46
+ORD0187,2025-02-03,Western,Corporate,Keyboard,Accessories,3,35.7,0.05,101.75,48,53.75
+ORD0248,2025-02-04,Nairobi,Corporate,Desk Lamp,Office,1,44.51,0.1,40.06,21,19.06
+ORD0461,2025-02-04,Nairobi,Retail,Webcam,Electronics,1,74.45,0.05,70.73,44,26.73
+ORD0025,2025-02-05,Western,Online,Office Chair,Furniture,3,189.73,0.0,569.19,345,224.19
+ORD0284,2025-02-07,Rift Valley,Retail,Office Chair,Furniture,1,183.21,0.0,183.21,115,68.21
+ORD0485,2025-02-08,Coast,Online,Notebook Pack,Office,1,12.31,0.1,11.08,4,7.08
+ORD0054,2025-02-08,Central,Corporate,Wireless Mouse,Accessories,3,20.37,0.15,51.94,27,24.94
+ORD0525,2025-02-08,Western,Retail,Keyboard,Accessories,2,35.53,0.05,67.51,32,35.51
+ORD0531,2025-02-11,Rift Valley,Retail,USB-C Hub,Electronics,8,63.01,0.0,504.08,280,224.08
+ORD0240,2025-02-11,Nairobi,Corporate,Notebook Pack,Office,6,11.09,0.0,66.54,24,42.54
+ORD0385,2025-02-12,Coast,Corporate,Wireless Mouse,Accessories,5,21.58,0.0,107.9,45,62.9
+ORD0192,2025-02-13,Central,Online,Wireless Mouse,Accessories,2,20.58,0.1,37.04,18,19.04
+ORD0535,2025-02-13,Western,Online,Wireless Mouse,Accessories,6,21.7,0.15,110.67,54,56.67
+ORD0002,2025-02-14,Coast,Online,Standing Desk,Furniture,7,388.4,0.0,2718.8,2030,688.8
+ORD0490,2025-02-16,Western,Online,Wireless Mouse,Accessories,3,23.15,0.05,65.98,27,38.98
+ORD0017,2025-02-16,Coast,Corporate,Office Chair,Furniture,1,174.72,0.0,174.72,115,59.72
+ORD0131,2025-02-16,Central,Corporate,Office Chair,Furniture,8,182.29,0.05,1385.4,920,465.4
+ORD0107,2025-02-17,Coast,Retail,Laptop Stand,Accessories,5,27.57,0.0,137.85,60,77.85
+ORD0138,2025-02-17,Nairobi,Corporate,Notebook Pack,Office,4,11.93,0.0,47.72,16,31.72
+ORD0483,2025-02-17,Western,Retail,USB-C Hub,Electronics,1,69.13,0.0,69.13,35,34.13
+ORD0599,2025-02-17,Rift Valley,Retail,USB-C Hub,Electronics,6,61.7,0.05,351.69,210,141.69
+ORD0228,2025-02-17,Central,Retail,Standing Desk,Furniture,7,410.71,0.15,2443.72,2030,413.72
+ORD0406,2025-02-20,Western,Corporate,Laptop Stand,Accessories,5,28.05,0.0,140.25,60,80.25
+ORD0316,2025-02-21,Coast,Retail,Office Chair,Furniture,3,198.75,0.0,596.25,345,251.25
+ORD0112,2025-02-21,Coast,Retail,USB-C Hub,Electronics,4,62.17,0.05,236.25,140,96.25
+ORD0450,2025-02-22,Coast,Retail,Wireless Mouse,Accessories,6,23.34,0.05,133.04,54,79.04
+ORD0518,2025-02-23,Nairobi,Online,Webcam,Electronics,8,75.89,0.0,607.12,352,255.12
+ORD0076,2025-02-24,Western,Retail,Laptop Stand,Accessories,7,26.55,0.0,185.85,84,101.85
+ORD0404,2025-02-25,Western,Online,Wireless Mouse,Accessories,4,20.83,0.05,79.15,36,43.15
+ORD0244,2025-02-26,Nairobi,Online,Notebook Pack,Office,5,11.62,0.0,58.1,20,38.1
+ORD0458,2025-02-27,Nairobi,Corporate,Notebook Pack,Office,4,12.27,0.1,44.17,16,28.17
+ORD0020,2025-02-27,Nairobi,Corporate,Desk Lamp,Office,5,39.7,0.1,178.65,105,73.65
+ORD0332,2025-02-27,Coast,Corporate,Webcam,Electronics,1,83.03,0.15,70.58,44,26.58
+ORD0166,2025-02-28,Coast,Corporate,Desk Lamp,Office,8,39.59,0.0,316.72,168,148.72
+ORD0196,2025-02-28,Rift Valley,Corporate,Desk Lamp,Office,5,40.16,0.15,170.68,105,65.68
+ORD0116,2025-02-28,Western,Corporate,Office Chair,Furniture,2,184.76,0.1,332.57,230,102.57
+ORD0590,2025-03-02,Rift Valley,Online,Webcam,Electronics,5,81.55,0.0,407.75,220,187.75
+ORD0206,2025-03-03,Coast,Online,Desk Lamp,Office,1,43.66,0.1,39.29,21,18.29
+ORD0168,2025-03-05,Central,Corporate,Standing Desk,Furniture,8,431.61,0.05,3280.24,2320,960.24
+ORD0585,2025-03-05,Central,Corporate,Keyboard,Accessories,6,34.3,0.0,205.8,96,109.8
+ORD0237,2025-03-05,Central,Retail,Standing Desk,Furniture,5,437.68,0.0,2188.4,1450,738.4
+ORD0178,2025-03-06,Western,Online,Monitor,Electronics,4,221.08,0.0,884.32,580,304.32
+ORD0341,2025-03-07,Central,Retail,Standing Desk,Furniture,4,437.22,0.0,1748.88,1160,588.88
+ORD0496,2025-03-07,Rift Valley,Online,Office Chair,Furniture,2,173.83,0.05,330.28,230,100.28
+ORD0136,2025-03-09,Rift Valley,Online,Standing Desk,Furniture,5,445.59,0.1,2005.15,1450,555.15
+ORD0181,2025-03-09,Coast,Corporate,Laptop Stand,Accessories,1,29.3,0.05,27.84,12,15.84
+ORD0335,2025-03-09,Western,Retail,Office Chair,Furniture,7,186.89,0.1,1177.41,805,372.41
+ORD0321,2025-03-10,Nairobi,Retail,Office Chair,Furniture,8,175.91,0.05,1336.92,920,416.92
+ORD0353,2025-03-10,Central,Corporate,Standing Desk,Furniture,7,403.54,0.0,2824.78,2030,794.78
+ORD0141,2025-03-11,Rift Valley,Retail,Standing Desk,Furniture,2,438.32,0.05,832.81,580,252.81
+ORD0089,2025-03-11,Rift Valley,Retail,Notebook Pack,Office,8,11.14,0.0,89.12,32,57.12
+ORD0574,2025-03-12,Western,Retail,Keyboard,Accessories,4,34.49,0.05,131.06,64,67.06
+ORD0501,2025-03-12,Western,Online,Notebook Pack,Office,7,12.27,0.0,85.89,28,57.89
+ORD0015,2025-03-13,Western,Retail,USB-C Hub,Electronics,4,65.41,0.15,222.39,140,82.39
+ORD0312,2025-03-16,Nairobi,Retail,Desk Lamp,Office,5,40.57,0.0,202.85,105,97.85
+ORD0180,2025-03-16,Coast,Online,USB-C Hub,Electronics,3,62.41,0.15,159.15,105,54.15
+ORD0214,2025-03-16,Coast,Corporate,Wireless Mouse,Accessories,5,20.85,0.0,104.25,45,59.25
+ORD0241,2025-03-16,Rift Valley,Corporate,Desk Lamp,Office,3,40.57,0.0,121.71,63,58.71
+ORD0512,2025-03-17,Central,Online,Laptop Stand,Accessories,3,29.55,0.0,88.65,36,52.65
+ORD0055,2025-03-17,Central,Online,Standing Desk,Furniture,7,389.21,0.0,2724.47,2030,694.47
+ORD0238,2025-03-17,Coast,Retail,Standing Desk,Furniture,7,450.0,0.0,3150.0,2030,1120.0
+ORD0143,2025-03-18,Central,Corporate,Office Chair,Furniture,8,184.54,0.15,1254.87,920,334.87
+ORD0499,2025-03-18,Coast,Corporate,Office Chair,Furniture,1,188.53,0.15,160.25,115,45.25
+ORD0333,2025-03-18,Rift Valley,Online,Standing Desk,Furniture,3,443.82,0.05,1264.89,870,394.89
+ORD0117,2025-03-19,Nairobi,Online,Laptop Stand,Accessories,3,30.01,0.15,76.53,36,40.53
+ORD0082,2025-03-19,Coast,Online,Keyboard,Accessories,4,36.09,0.1,129.92,64,65.92
+ORD0277,2025-03-20,Coast,Retail,Standing Desk,Furniture,5,397.28,0.0,1986.4,1450,536.4
+ORD0488,2025-03-21,Central,Retail,Wireless Mouse,Accessories,2,21.82,0.0,43.64,18,25.64
+ORD0050,2025-03-21,Central,Online,Standing Desk,Furniture,5,427.04,0.05,2028.44,1450,578.44
+ORD0464,2025-03-21,Nairobi,Retail,Monitor,Electronics,6,212.9,0.1,1149.66,870,279.66
+ORD0057,2025-03-21,Coast,Retail,Webcam,Electronics,4,83.94,0.0,335.76,176,159.76
+ORD0514,2025-03-22,Coast,Corporate,Keyboard,Accessories,7,35.84,0.1,225.79,112,113.79
+ORD0443,2025-03-22,Rift Valley,Online,Wireless Mouse,Accessories,8,20.24,0.1,145.73,72,73.73
+ORD0053,2025-03-24,Western,Online,USB-C Hub,Electronics,8,67.14,0.15,456.55,280,176.55
+ORD0132,2025-03-24,Central,Corporate,Wireless Mouse,Accessories,6,22.68,0.1,122.47,54,68.47
+ORD0095,2025-03-25,Central,Corporate,Wireless Mouse,Accessories,5,22.28,0.0,111.4,45,66.4
+ORD0232,2025-03-26,Coast,Retail,Webcam,Electronics,8,76.89,0.0,615.12,352,263.12
+ORD0432,2025-03-26,Nairobi,Corporate,Notebook Pack,Office,3,12.6,0.0,37.8,12,25.8
+ORD0210,2025-03-29,Nairobi,Online,Desk Lamp,Office,8,39.23,0.05,298.15,168,130.15
+ORD0154,2025-03-29,Rift Valley,Corporate,Keyboard,Accessories,3,35.61,0.0,106.83,48,58.83
+ORD0269,2025-03-30,Central,Corporate,Office Chair,Furniture,8,194.19,0.0,1553.52,920,633.52
+ORD0553,2025-03-30,Coast,Online,Laptop Stand,Accessories,4,29.51,0.0,118.04,48,70.04
+ORD0498,2025-03-30,Central,Retail,Notebook Pack,Office,6,12.78,0.0,76.68,24,52.68
+ORD0164,2025-03-31,Central,Corporate,Notebook Pack,Office,4,12.55,0.0,50.2,16,34.2
+ORD0507,2025-04-01,Central,Corporate,Keyboard,Accessories,4,33.98,0.15,115.53,64,51.53
+ORD0215,2025-04-01,Western,Retail,Wireless Mouse,Accessories,8,22.9,0.1,164.88,72,92.88
+ORD0556,2025-04-01,Central,Online,Office Chair,Furniture,8,186.52,0.15,1268.34,920,348.34
+ORD0371,2025-04-02,Coast,Online,Notebook Pack,Office,2,12.05,0.0,24.1,8,16.1
+ORD0058,2025-04-02,Coast,Retail,Laptop Stand,Accessories,6,29.35,0.1,158.49,72,86.49
+ORD0063,2025-04-02,Rift Valley,Retail,USB-C Hub,Electronics,5,60.93,0.0,304.65,175,129.65
+ORD0476,2025-04-02,Rift Valley,Online,Laptop Stand,Accessories,4,30.16,0.15,102.54,48,54.54
+ORD0399,2025-04-03,Coast,Retail,Standing Desk,Furniture,1,449.77,0.1,404.79,290,114.79
+ORD0569,2025-04-03,Central,Corporate,Standing Desk,Furniture,5,418.04,0.0,2090.2,1450,640.2
+ORD0258,2025-04-03,Central,Corporate,Webcam,Electronics,5,73.04,0.05,346.94,220,126.94
+ORD0570,2025-04-04,Coast,Corporate,Standing Desk,Furniture,6,401.34,0.0,2408.04,1740,668.04
+ORD0276,2025-04-04,Nairobi,Online,Webcam,Electronics,3,78.04,0.1,210.71,132,78.71
+ORD0422,2025-04-06,Coast,Corporate,Notebook Pack,Office,8,12.37,0.15,84.12,32,52.12
+ORD0343,2025-04-07,Rift Valley,Corporate,USB-C Hub,Electronics,2,68.22,0.0,136.44,70,66.44
+ORD0550,2025-04-07,Rift Valley,Corporate,Wireless Mouse,Accessories,8,23.46,0.0,187.68,72,115.68
+ORD0032,2025-04-08,Central,Retail,Notebook Pack,Office,2,12.31,0.0,24.62,8,16.62
+ORD0034,2025-04-09,Rift Valley,Online,Monitor,Electronics,4,208.27,0.15,708.12,580,128.12
+ORD0110,2025-04-09,Coast,Online,Wireless Mouse,Accessories,6,22.85,0.0,137.1,54,83.1
+ORD0573,2025-04-10,Rift Valley,Online,Office Chair,Furniture,2,185.88,0.1,334.58,230,104.58
+ORD0213,2025-04-10,Coast,Online,Standing Desk,Furniture,6,435.28,0.05,2481.1,1740,741.1
+ORD0591,2025-04-13,Central,Corporate,Webcam,Electronics,5,83.9,0.15,356.57,220,136.57
+ORD0478,2025-04-13,Western,Online,Desk Lamp,Office,5,43.91,0.15,186.62,105,81.62
+ORD0540,2025-04-14,Nairobi,Online,Notebook Pack,Office,3,11.54,0.15,29.43,12,17.43
+ORD0253,2025-04-14,Central,Retail,USB-C Hub,Electronics,1,69.01,0.0,69.01,35,34.01
+ORD0511,2025-04-14,Central,Online,Webcam,Electronics,3,80.71,0.05,230.02,132,98.02
+ORD0205,2025-04-15,Central,Retail,Laptop Stand,Accessories,5,29.2,0.0,146.0,60,86.0
+ORD0588,2025-04-16,Nairobi,Corporate,Keyboard,Accessories,1,34.56,0.05,32.83,16,16.83
+ORD0416,2025-04-16,Western,Online,Monitor,Electronics,5,212.6,0.0,1063.0,725,338.0
+ORD0056,2025-04-18,Western,Retail,Desk Lamp,Office,4,41.02,0.0,164.08,84,80.08
+ORD0014,2025-04-19,Rift Valley,Online,Desk Lamp,Office,8,44.59,0.1,321.05,168,153.05
+ORD0539,2025-04-19,Nairobi,Corporate,Keyboard,Accessories,4,32.44,0.0,129.76,64,65.76
+ORD0104,2025-04-19,Western,Corporate,Office Chair,Furniture,6,180.27,0.05,1027.54,690,337.54
+ORD0357,2025-04-19,Rift Valley,Online,Laptop Stand,Accessories,4,29.11,0.0,116.44,48,68.44
+ORD0031,2025-04-20,Coast,Retail,Office Chair,Furniture,3,187.26,0.15,477.51,345,132.51
+ORD0268,2025-04-20,Coast,Online,Office Chair,Furniture,5,176.13,0.1,792.59,575,217.59
+ORD0558,2025-04-20,Central,Corporate,Webcam,Electronics,4,80.22,0.0,320.88,176,144.88
+ORD0229,2025-04-20,Coast,Online,Keyboard,Accessories,6,33.28,0.1,179.71,96,83.71
+ORD0200,2025-04-21,Coast,Retail,Standing Desk,Furniture,7,416.88,0.1,2626.34,2030,596.34
+ORD0243,2025-04-21,Western,Corporate,USB-C Hub,Electronics,3,69.58,0.15,177.43,105,72.43
+ORD0203,2025-04-21,Central,Corporate,USB-C Hub,Electronics,2,64.27,0.05,122.11,70,52.11
+ORD0179,2025-04-21,Western,Online,Webcam,Electronics,4,81.42,0.05,309.4,176,133.4
+ORD0356,2025-04-22,Central,Retail,Standing Desk,Furniture,8,444.83,0.0,3558.64,2320,1238.64
+ORD0504,2025-04-23,Rift Valley,Corporate,Webcam,Electronics,1,72.49,0.05,68.87,44,24.87
+ORD0029,2025-04-23,Nairobi,Online,Webcam,Electronics,1,80.59,0.0,80.59,44,36.59
+ORD0012,2025-04-23,Nairobi,Retail,Standing Desk,Furniture,6,401.79,0.0,2410.74,1740,670.74
+ORD0348,2025-04-24,Western,Corporate,Standing Desk,Furniture,7,404.89,0.05,2692.52,2030,662.52
+ORD0329,2025-04-24,Rift Valley,Corporate,Webcam,Electronics,4,77.73,0.0,310.92,176,134.92
+ORD0212,2025-04-24,Nairobi,Corporate,Desk Lamp,Office,6,39.15,0.0,234.9,126,108.9
+ORD0568,2025-04-24,Coast,Corporate,Desk Lamp,Office,8,42.05,0.05,319.58,168,151.58
+ORD0584,2025-04-25,Western,Corporate,Monitor,Electronics,3,217.86,0.0,653.58,435,218.58
+ORD0092,2025-04-25,Coast,Online,Desk Lamp,Office,2,43.71,0.0,87.42,42,45.42
+ORD0580,2025-04-26,Rift Valley,Corporate,Monitor,Electronics,6,197.53,0.05,1125.92,870,255.92
+ORD0028,2025-04-26,Western,Online,Monitor,Electronics,2,193.91,0.05,368.43,290,78.43
+ORD0151,2025-04-27,Nairobi,Retail,USB-C Hub,Electronics,2,69.97,0.1,125.95,70,55.95
+ORD0472,2025-04-27,Nairobi,Online,Wireless Mouse,Accessories,1,23.26,0.0,23.26,9,14.26
+ORD0383,2025-04-27,Rift Valley,Online,Office Chair,Furniture,6,198.06,0.15,1010.11,690,320.11
+ORD0123,2025-04-29,Rift Valley,Online,Laptop Stand,Accessories,5,28.91,0.05,137.32,60,77.32
+ORD0318,2025-04-29,Coast,Online,Webcam,Electronics,1,76.98,0.0,76.98,44,32.98
+ORD0414,2025-04-29,Rift Valley,Retail,Office Chair,Furniture,7,175.72,0.0,1230.04,805,425.04
+ORD0009,2025-04-30,Central,Online,Wireless Mouse,Accessories,2,21.22,0.1,38.2,18,20.2
+ORD0145,2025-04-30,Rift Valley,Corporate,Notebook Pack,Office,7,11.65,0.0,81.55,28,53.55
+ORD0081,2025-05-01,Western,Online,USB-C Hub,Electronics,5,63.12,0.05,299.82,175,124.82
+ORD0073,2025-05-01,Coast,Online,Wireless Mouse,Accessories,5,23.08,0.0,115.4,45,70.4
+ORD0431,2025-05-02,Western,Corporate,Wireless Mouse,Accessories,4,22.67,0.15,77.08,36,41.08
+ORD0465,2025-05-03,Rift Valley,Online,Notebook Pack,Office,1,11.21,0.0,11.21,4,7.21
+ORD0247,2025-05-04,Nairobi,Corporate,Desk Lamp,Office,7,43.1,0.0,301.7,147,154.7
+ORD0344,2025-05-04,Nairobi,Retail,Laptop Stand,Accessories,4,26.21,0.0,104.84,48,56.84
+ORD0291,2025-05-04,Nairobi,Retail,Office Chair,Furniture,4,180.65,0.15,614.21,460,154.21
+ORD0380,2025-05-04,Coast,Corporate,Webcam,Electronics,7,75.9,0.15,451.61,308,143.61
+ORD0401,2025-05-04,Rift Valley,Online,USB-C Hub,Electronics,5,67.24,0.0,336.2,175,161.2
+ORD0140,2025-05-05,Coast,Corporate,Office Chair,Furniture,8,174.48,0.15,1186.46,920,266.46
+ORD0102,2025-05-06,Coast,Retail,Desk Lamp,Office,2,44.56,0.05,84.66,42,42.66
+ORD0074,2025-05-06,Nairobi,Retail,Laptop Stand,Accessories,8,29.57,0.15,201.08,96,105.08
+ORD0331,2025-05-07,Central,Online,Monitor,Electronics,2,208.21,0.15,353.96,290,63.96
+ORD0393,2025-05-07,Rift Valley,Online,USB-C Hub,Electronics,8,66.21,0.15,450.23,280,170.23
+ORD0445,2025-05-09,Coast,Online,Desk Lamp,Office,2,43.11,0.05,81.91,42,39.91
+ORD0091,2025-05-10,Western,Online,Notebook Pack,Office,2,11.08,0.1,19.94,8,11.94
+ORD0595,2025-05-12,Central,Retail,Wireless Mouse,Accessories,4,23.72,0.1,85.39,36,49.39
+ORD0468,2025-05-13,Central,Corporate,Standing Desk,Furniture,3,394.93,0.05,1125.55,870,255.55
+ORD0486,2025-05-14,Central,Retail,USB-C Hub,Electronics,6,67.09,0.1,362.29,210,152.29
+ORD0534,2025-05-15,Coast,Corporate,Office Chair,Furniture,4,186.9,0.05,710.22,460,250.22
+ORD0528,2025-05-16,Nairobi,Retail,Standing Desk,Furniture,5,402.36,0.05,1911.21,1450,461.21
+ORD0520,2025-05-16,Central,Retail,Laptop Stand,Accessories,4,28.87,0.0,115.48,48,67.48
+ORD0121,2025-05-16,Western,Online,Monitor,Electronics,2,201.26,0.0,402.52,290,112.52
+ORD0124,2025-05-16,Coast,Corporate,Monitor,Electronics,4,197.06,0.1,709.42,580,129.42
+ORD0293,2025-05-16,Rift Valley,Online,Keyboard,Accessories,6,34.25,0.1,184.95,96,88.95
+ORD0142,2025-05-17,Western,Corporate,Standing Desk,Furniture,1,435.19,0.05,413.43,290,123.43
+ORD0125,2025-05-17,Central,Corporate,Keyboard,Accessories,3,32.53,0.0,97.59,48,49.59
+ORD0013,2025-05-18,Western,Corporate,Notebook Pack,Office,2,12.79,0.0,25.58,8,17.58
+ORD0391,2025-05-18,Nairobi,Online,Keyboard,Accessories,5,34.96,0.05,166.06,80,86.06
+ORD0475,2025-05-19,Western,Corporate,Desk Lamp,Office,2,41.15,0.15,69.95,42,27.95
+ORD0589,2025-05-19,Nairobi,Corporate,Standing Desk,Furniture,3,442.22,0.1,1193.99,870,323.99
+ORD0387,2025-05-19,Rift Valley,Retail,Desk Lamp,Office,2,39.23,0.0,78.46,42,36.46
+ORD0487,2025-05-20,Coast,Corporate,Office Chair,Furniture,4,198.13,0.0,792.52,460,332.52
+ORD0600,2025-05-20,Coast,Online,Office Chair,Furniture,7,193.88,0.1,1221.44,805,416.44
+ORD0202,2025-05-20,Rift Valley,Retail,Wireless Mouse,Accessories,8,21.95,0.1,158.04,72,86.04
+ORD0198,2025-05-20,Coast,Online,Keyboard,Accessories,5,34.17,0.05,162.31,80,82.31
+ORD0165,2025-05-20,Rift Valley,Retail,Standing Desk,Furniture,3,447.82,0.05,1276.29,870,406.29
+ORD0127,2025-05-20,Nairobi,Retail,Notebook Pack,Office,8,11.19,0.1,80.57,32,48.57
+ORD0427,2025-05-21,Rift Valley,Corporate,Laptop Stand,Accessories,4,27.05,0.15,91.97,48,43.97
+ORD0160,2025-05-21,Nairobi,Corporate,Notebook Pack,Office,1,12.7,0.15,10.79,4,6.79
+ORD0261,2025-05-21,Rift Valley,Retail,Notebook Pack,Office,1,12.33,0.0,12.33,4,8.33
+ORD0455,2025-05-22,Western,Corporate,Monitor,Electronics,2,211.79,0.0,423.58,290,133.58
+ORD0564,2025-05-22,Central,Online,Desk Lamp,Office,6,40.39,0.05,230.22,126,104.22
+ORD0052,2025-05-22,Coast,Corporate,Notebook Pack,Office,1,11.68,0.0,11.68,4,7.68
+ORD0392,2025-05-22,Nairobi,Retail,Notebook Pack,Office,7,11.97,0.05,79.6,28,51.6
+ORD0477,2025-05-25,Rift Valley,Online,Office Chair,Furniture,5,172.76,0.05,820.61,575,245.61
+ORD0441,2025-05-26,Western,Retail,Desk Lamp,Office,6,42.52,0.15,216.85,126,90.85
+ORD0233,2025-05-26,Central,Retail,Webcam,Electronics,8,78.42,0.0,627.36,352,275.36
+ORD0456,2025-05-26,Western,Corporate,Webcam,Electronics,1,74.32,0.05,70.6,44,26.6
+ORD0278,2025-05-26,Western,Retail,Standing Desk,Furniture,2,399.59,0.05,759.22,580,179.22
+ORD0225,2025-05-26,Central,Online,Notebook Pack,Office,5,12.72,0.15,54.06,20,34.06
+ORD0462,2025-05-27,Nairobi,Corporate,Standing Desk,Furniture,7,433.56,0.1,2731.43,2030,701.43
+ORD0161,2025-05-27,Coast,Corporate,Office Chair,Furniture,4,193.94,0.15,659.4,460,199.4
+ORD0194,2025-05-28,Western,Online,Laptop Stand,Accessories,5,26.22,0.05,124.54,60,64.54
+ORD0311,2025-05-28,Rift Valley,Retail,USB-C Hub,Electronics,2,66.84,0.15,113.63,70,43.63
+ORD0126,2025-05-28,Central,Corporate,Webcam,Electronics,8,77.61,0.0,620.88,352,268.88
+ORD0283,2025-05-29,Rift Valley,Retail,Standing Desk,Furniture,5,402.86,0.1,1812.87,1450,362.87
+ORD0288,2025-05-29,Coast,Retail,Laptop Stand,Accessories,7,27.63,0.15,164.4,84,80.4
+ORD0434,2025-05-29,Nairobi,Online,USB-C Hub,Electronics,5,70.05,0.15,297.71,175,122.71
+ORD0530,2025-05-31,Coast,Online,Wireless Mouse,Accessories,8,20.58,0.0,164.64,72,92.64
+ORD0592,2025-06-01,Coast,Corporate,Notebook Pack,Office,3,12.09,0.0,36.27,12,24.27
+ORD0363,2025-06-01,Rift Valley,Corporate,Notebook Pack,Office,3,11.67,0.0,35.01,12,23.01
+ORD0230,2025-06-01,Western,Online,Wireless Mouse,Accessories,2,22.95,0.15,39.02,18,21.02
+ORD0430,2025-06-02,Nairobi,Retail,Monitor,Electronics,1,202.03,0.1,181.83,145,36.83
+ORD0301,2025-06-03,Nairobi,Retail,Webcam,Electronics,8,76.36,0.0,610.88,352,258.88
+ORD0549,2025-06-03,Rift Valley,Corporate,Keyboard,Accessories,8,33.71,0.05,256.2,128,128.2
+ORD0049,2025-06-03,Nairobi,Corporate,Standing Desk,Furniture,2,404.17,0.0,808.34,580,228.34
+ORD0394,2025-06-05,Western,Retail,Keyboard,Accessories,1,34.06,0.1,30.65,16,14.65
+ORD0070,2025-06-05,Western,Corporate,Laptop Stand,Accessories,5,27.69,0.0,138.45,60,78.45
+ORD0581,2025-06-06,Central,Retail,Webcam,Electronics,3,82.04,0.0,246.12,132,114.12
+ORD0259,2025-06-06,Coast,Corporate,USB-C Hub,Electronics,8,67.26,0.15,457.37,280,177.37
+ORD0302,2025-06-07,Western,Corporate,Webcam,Electronics,1,77.68,0.15,66.03,44,22.03
+ORD0290,2025-06-07,Rift Valley,Corporate,Office Chair,Furniture,8,172.87,0.0,1382.96,920,462.96
+ORD0218,2025-06-08,Central,Retail,Wireless Mouse,Accessories,8,20.37,0.1,146.66,72,74.66
+ORD0548,2025-06-09,Nairobi,Online,USB-C Hub,Electronics,5,68.73,0.1,309.29,175,134.29
+ORD0289,2025-06-10,Western,Retail,Webcam,Electronics,4,77.98,0.0,311.92,176,135.92
+ORD0420,2025-06-10,Coast,Retail,Keyboard,Accessories,2,33.91,0.0,67.82,32,35.82
+ORD0044,2025-06-11,Central,Online,Standing Desk,Furniture,5,431.41,0.0,2157.05,1450,707.05
+ORD0575,2025-06-11,Coast,Retail,Keyboard,Accessories,3,34.93,0.0,104.79,48,56.79
+ORD0386,2025-06-12,Central,Retail,Notebook Pack,Office,6,11.22,0.0,67.32,24,43.32
+ORD0519,2025-06-13,Central,Retail,Desk Lamp,Office,3,44.16,0.0,132.48,63,69.48
+ORD0347,2025-06-13,Coast,Corporate,Webcam,Electronics,6,75.53,0.0,453.18,264,189.18
+ORD0524,2025-06-13,Coast,Retail,Laptop Stand,Accessories,5,26.09,0.0,130.45,60,70.45
+ORD0221,2025-06-14,Nairobi,Retail,Monitor,Electronics,8,198.27,0.15,1348.24,1160,188.24
+ORD0396,2025-06-14,Rift Valley,Retail,USB-C Hub,Electronics,4,63.07,0.1,227.05,140,87.05
+ORD0325,2025-06-15,Coast,Retail,Office Chair,Furniture,4,177.92,0.0,711.68,460,251.68
+ORD0201,2025-06-16,Western,Online,USB-C Hub,Electronics,2,61.42,0.0,122.84,70,52.84
+ORD0307,2025-06-16,Coast,Retail,Standing Desk,Furniture,8,411.72,0.15,2799.7,2320,479.7
+ORD0417,2025-06-16,Rift Valley,Corporate,Desk Lamp,Office,4,39.41,0.1,141.88,84,57.88
+ORD0324,2025-06-17,Coast,Online,Standing Desk,Furniture,2,431.37,0.1,776.47,580,196.47
+ORD0491,2025-06-17,Central,Retail,Monitor,Electronics,3,217.09,0.0,651.27,435,216.27
+ORD0326,2025-06-18,Nairobi,Retail,USB-C Hub,Electronics,5,67.32,0.15,286.11,175,111.11
+ORD0109,2025-06-19,Central,Online,Standing Desk,Furniture,6,404.61,0.1,2184.89,1740,444.89
+ORD0527,2025-06-19,Western,Corporate,Wireless Mouse,Accessories,4,21.68,0.0,86.72,36,50.72
+ORD0147,2025-06-19,Rift Valley,Online,Webcam,Electronics,2,73.0,0.1,131.4,88,43.4
+ORD0593,2025-06-19,Nairobi,Online,Office Chair,Furniture,4,170.58,0.0,682.32,460,222.32
+ORD0481,2025-06-21,Central,Online,Laptop Stand,Accessories,1,29.56,0.1,26.6,12,14.6
+ORD0224,2025-06-23,Nairobi,Corporate,Notebook Pack,Office,1,11.17,0.05,10.61,4,6.61
+ORD0005,2025-06-24,Central,Online,Notebook Pack,Office,5,11.45,0.0,57.25,20,37.25
+ORD0285,2025-06-24,Central,Corporate,Monitor,Electronics,3,222.15,0.05,633.13,435,198.13
+ORD0308,2025-06-25,Coast,Online,Standing Desk,Furniture,6,427.4,0.05,2436.18,1740,696.18
+ORD0222,2025-06-25,Nairobi,Online,Wireless Mouse,Accessories,2,22.51,0.15,38.27,18,20.27
+ORD0410,2025-06-25,Central,Retail,USB-C Hub,Electronics,8,65.22,0.0,521.76,280,241.76
+ORD0544,2025-06-26,Rift Valley,Corporate,Standing Desk,Furniture,7,412.14,0.05,2740.73,2030,710.73
+ORD0047,2025-06-28,Coast,Retail,Keyboard,Accessories,2,34.27,0.0,68.54,32,36.54
+ORD0260,2025-06-29,Central,Corporate,Office Chair,Furniture,8,191.71,0.0,1533.68,920,613.68
+ORD0251,2025-06-30,Rift Valley,Corporate,Laptop Stand,Accessories,6,29.48,0.0,176.88,72,104.88
+ORD0010,2025-07-01,Nairobi,Corporate,Desk Lamp,Office,4,43.36,0.05,164.77,84,80.77
+ORD0424,2025-07-03,Rift Valley,Corporate,Laptop Stand,Accessories,1,26.37,0.1,23.73,12,11.73
+ORD0583,2025-07-03,Rift Valley,Online,Office Chair,Furniture,4,198.26,0.0,793.04,460,333.04
+ORD0459,2025-07-04,Western,Retail,Laptop Stand,Accessories,6,27.49,0.0,164.94,72,92.94
+ORD0271,2025-07-05,Coast,Online,Keyboard,Accessories,4,37.72,0.0,150.88,64,86.88
+ORD0135,2025-07-05,Coast,Retail,Standing Desk,Furniture,8,437.47,0.1,3149.78,2320,829.78
+ORD0008,2025-07-05,Coast,Retail,Webcam,Electronics,4,72.33,0.0,289.32,176,113.32
+ORD0066,2025-07-06,Central,Corporate,Monitor,Electronics,7,225.08,0.0,1575.56,1015,560.56
+ORD0257,2025-07-08,Nairobi,Retail,Office Chair,Furniture,5,191.72,0.0,958.6,575,383.6
+ORD0234,2025-07-08,Rift Valley,Corporate,Monitor,Electronics,8,219.05,0.1,1577.16,1160,417.16
+ORD0479,2025-07-08,Western,Online,Office Chair,Furniture,8,191.88,0.0,1535.04,920,615.04
+ORD0108,2025-07-08,Rift Valley,Corporate,Webcam,Electronics,8,78.39,0.15,533.05,352,181.05
+ORD0361,2025-07-09,Coast,Corporate,Monitor,Electronics,6,194.74,0.1,1051.6,870,181.6
+ORD0339,2025-07-11,Rift Valley,Retail,Notebook Pack,Office,7,12.71,0.1,80.07,28,52.07
+ORD0249,2025-07-11,Nairobi,Retail,Notebook Pack,Office,5,11.73,0.0,58.65,20,38.65
+ORD0153,2025-07-11,Rift Valley,Corporate,Desk Lamp,Office,7,40.28,0.0,281.96,147,134.96
+ORD0330,2025-07-11,Western,Corporate,Webcam,Electronics,7,83.15,0.15,494.74,308,186.74
+ORD0144,2025-07-13,Coast,Corporate,Standing Desk,Furniture,8,444.84,0.05,3380.78,2320,1060.78
+ORD0355,2025-07-13,Western,Corporate,USB-C Hub,Electronics,1,61.76,0.0,61.76,35,26.76
+ORD0359,2025-07-14,Central,Retail,USB-C Hub,Electronics,8,66.55,0.15,452.54,280,172.54
+ORD0006,2025-07-14,Western,Retail,Wireless Mouse,Accessories,2,23.22,0.05,44.12,18,26.12
+ORD0119,2025-07-14,Western,Retail,Standing Desk,Furniture,8,406.38,0.1,2925.94,2320,605.94
+ORD0188,2025-07-15,Rift Valley,Online,Desk Lamp,Office,5,42.04,0.1,189.18,105,84.18
+ORD0533,2025-07-15,Central,Retail,Desk Lamp,Office,6,41.64,0.0,249.84,126,123.84
+ORD0159,2025-07-15,Central,Online,Monitor,Electronics,6,203.14,0.15,1036.01,870,166.01
+ORD0146,2025-07-17,Coast,Corporate,Notebook Pack,Office,3,12.89,0.1,34.8,12,22.8
+ORD0085,2025-07-19,Western,Corporate,USB-C Hub,Electronics,7,67.57,0.15,402.04,245,157.04
+ORD0084,2025-07-19,Nairobi,Retail,Notebook Pack,Office,1,11.77,0.15,10.0,4,6.0
+ORD0517,2025-07-20,Western,Online,Webcam,Electronics,1,79.28,0.0,79.28,44,35.28
+ORD0457,2025-07-20,Coast,Retail,Monitor,Electronics,5,219.54,0.0,1097.7,725,372.7
+ORD0398,2025-07-21,Coast,Corporate,USB-C Hub,Electronics,6,69.49,0.0,416.94,210,206.94
+ORD0296,2025-07-21,Central,Online,Wireless Mouse,Accessories,6,22.2,0.05,126.54,54,72.54
+ORD0045,2025-07-22,Nairobi,Online,USB-C Hub,Electronics,3,64.56,0.05,184.0,105,79.0
+ORD0254,2025-07-23,Coast,Retail,Standing Desk,Furniture,8,388.86,0.05,2955.34,2320,635.34
+ORD0096,2025-07-23,Coast,Online,Notebook Pack,Office,4,12.18,0.0,48.72,16,32.72
+ORD0440,2025-07-23,Rift Valley,Retail,Standing Desk,Furniture,4,441.83,0.1,1590.59,1160,430.59
+ORD0286,2025-07-24,Nairobi,Retail,Desk Lamp,Office,3,42.1,0.05,119.98,63,56.98
+ORD0027,2025-07-24,Rift Valley,Online,USB-C Hub,Electronics,6,69.16,0.1,373.46,210,163.46
+ORD0016,2025-07-24,Coast,Corporate,Webcam,Electronics,6,84.21,0.0,505.26,264,241.26
+ORD0134,2025-07-26,Nairobi,Online,Wireless Mouse,Accessories,1,21.87,0.15,18.59,9,9.59
+ORD0438,2025-07-26,Rift Valley,Retail,Wireless Mouse,Accessories,5,21.84,0.05,103.74,45,58.74
+ORD0373,2025-07-27,Coast,Retail,Desk Lamp,Office,8,40.27,0.15,273.84,168,105.84
+ORD0328,2025-07-27,Central,Retail,Keyboard,Accessories,5,35.78,0.0,178.9,80,98.9
+ORD0567,2025-07-27,Western,Online,Notebook Pack,Office,7,12.16,0.0,85.12,28,57.12
+ORD0083,2025-07-28,Nairobi,Online,Notebook Pack,Office,6,11.93,0.15,60.84,24,36.84
+ORD0148,2025-07-29,Central,Retail,Keyboard,Accessories,3,34.83,0.0,104.49,48,56.49
+ORD0274,2025-07-29,Nairobi,Retail,Notebook Pack,Office,2,12.91,0.0,25.82,8,17.82
+ORD0409,2025-08-01,Coast,Retail,USB-C Hub,Electronics,2,68.45,0.0,136.9,70,66.9
+ORD0587,2025-08-02,Central,Retail,Wireless Mouse,Accessories,8,20.68,0.1,148.9,72,76.9
+ORD0235,2025-08-03,Coast,Retail,Standing Desk,Furniture,3,440.24,0.0,1320.72,870,450.72
+ORD0571,2025-08-04,Central,Retail,USB-C Hub,Electronics,6,62.51,0.05,356.31,210,146.31
+ORD0561,2025-08-05,Coast,Retail,USB-C Hub,Electronics,7,64.57,0.05,429.39,245,184.39
+ORD0342,2025-08-06,Central,Online,Standing Desk,Furniture,7,403.03,0.0,2821.21,2030,791.21
+ORD0597,2025-08-07,Nairobi,Online,Desk Lamp,Office,2,44.36,0.0,88.72,42,46.72
+ORD0209,2025-08-08,Rift Valley,Online,Webcam,Electronics,7,75.37,0.1,474.83,308,166.83
+ORD0526,2025-08-09,Coast,Online,Laptop Stand,Accessories,3,29.75,0.15,75.86,36,39.86
+ORD0100,2025-08-11,Central,Corporate,Keyboard,Accessories,3,37.61,0.15,95.91,48,47.91
+ORD0064,2025-08-12,Coast,Retail,Desk Lamp,Office,2,44.68,0.1,80.42,42,38.42
+ORD0223,2025-08-13,Central,Retail,Office Chair,Furniture,3,181.24,0.05,516.53,345,171.53
+ORD0411,2025-08-13,Nairobi,Corporate,Wireless Mouse,Accessories,8,20.48,0.05,155.65,72,83.65
+ORD0256,2025-08-14,Rift Valley,Corporate,Notebook Pack,Office,7,12.91,0.05,85.85,28,57.85
+ORD0305,2025-08-14,Coast,Retail,Laptop Stand,Accessories,6,26.44,0.1,142.78,72,70.78
+ORD0395,2025-08-14,Western,Online,Desk Lamp,Office,6,44.12,0.1,238.25,126,112.25
+ORD0452,2025-08-14,Coast,Retail,Keyboard,Accessories,6,35.72,0.0,214.32,96,118.32
+ORD0157,2025-08-15,Rift Valley,Corporate,Wireless Mouse,Accessories,6,21.29,0.15,108.58,54,54.58
+ORD0265,2025-08-16,Central,Retail,Desk Lamp,Office,2,39.57,0.15,67.27,42,25.27
+ORD0175,2025-08-16,Central,Corporate,Office Chair,Furniture,4,173.14,0.05,657.93,460,197.93
+ORD0079,2025-08-17,Coast,Corporate,Standing Desk,Furniture,3,416.64,0.1,1124.93,870,254.93
+ORD0004,2025-08-18,Coast,Corporate,Monitor,Electronics,5,218.7,0.0,1093.5,725,368.5
+ORD0354,2025-08-19,Coast,Online,Wireless Mouse,Accessories,6,22.13,0.0,132.78,54,78.78
+ORD0295,2025-08-19,Nairobi,Online,Standing Desk,Furniture,5,432.12,0.15,1836.51,1450,386.51
+ORD0493,2025-08-20,Coast,Online,Notebook Pack,Office,4,11.93,0.0,47.72,16,31.72
+ORD0184,2025-08-20,Western,Retail,Wireless Mouse,Accessories,4,20.39,0.15,69.33,36,33.33
+ORD0090,2025-08-21,Rift Valley,Retail,Monitor,Electronics,6,218.78,0.05,1247.05,870,377.05
+ORD0173,2025-08-21,Coast,Retail,Notebook Pack,Office,6,11.84,0.15,60.38,24,36.38
+ORD0190,2025-08-21,Central,Retail,Desk Lamp,Office,7,43.54,0.1,274.3,147,127.3
+ORD0158,2025-08-22,Rift Valley,Online,USB-C Hub,Electronics,5,70.19,0.0,350.95,175,175.95
+ORD0322,2025-08-23,Central,Retail,Keyboard,Accessories,5,32.28,0.0,161.4,80,81.4
+ORD0419,2025-08-23,Western,Online,Desk Lamp,Office,3,44.81,0.05,127.71,63,64.71
+ORD0484,2025-08-23,Coast,Corporate,Desk Lamp,Office,2,39.28,0.15,66.78,42,24.78
+ORD0365,2025-08-24,Western,Retail,Office Chair,Furniture,3,175.21,0.05,499.35,345,154.35
+ORD0060,2025-08-24,Coast,Online,Monitor,Electronics,6,220.77,0.05,1258.39,870,388.39
+ORD0007,2025-08-24,Central,Corporate,Laptop Stand,Accessories,2,26.11,0.1,47.0,24,23.0
+ORD0035,2025-08-25,Western,Online,USB-C Hub,Electronics,4,64.41,0.0,257.64,140,117.64
+ORD0352,2025-08-26,Rift Valley,Corporate,Keyboard,Accessories,1,34.51,0.15,29.33,16,13.33
+ORD0094,2025-08-27,Western,Corporate,Monitor,Electronics,5,198.84,0.05,944.49,725,219.49
+ORD0071,2025-08-27,Western,Retail,Desk Lamp,Office,8,43.18,0.1,310.9,168,142.9
+ORD0287,2025-08-27,Coast,Online,Monitor,Electronics,2,208.31,0.05,395.79,290,105.79
+ORD0033,2025-08-28,Central,Online,Notebook Pack,Office,1,11.16,0.0,11.16,4,7.16
+ORD0572,2025-08-29,Western,Online,Wireless Mouse,Accessories,1,22.28,0.15,18.94,9,9.94
+ORD0115,2025-08-29,Nairobi,Retail,USB-C Hub,Electronics,8,63.34,0.1,456.05,280,176.05
+ORD0473,2025-08-30,Coast,Online,Laptop Stand,Accessories,6,29.88,0.1,161.35,72,89.35
+ORD0338,2025-08-30,Coast,Corporate,Wireless Mouse,Accessories,1,21.68,0.05,20.6,9,11.6
+ORD0545,2025-08-31,Coast,Corporate,Webcam,Electronics,1,75.2,0.0,75.2,44,31.2
+ORD0298,2025-08-31,Western,Online,Desk Lamp,Office,8,42.71,0.0,341.68,168,173.68
+ORD0377,2025-09-01,Central,Corporate,Webcam,Electronics,5,83.29,0.0,416.45,220,196.45
+ORD0578,2025-09-02,Coast,Corporate,Notebook Pack,Office,7,11.11,0.0,77.77,28,49.77
+ORD0317,2025-09-02,Nairobi,Online,Office Chair,Furniture,4,179.71,0.05,682.9,460,222.9
+ORD0369,2025-09-05,Western,Retail,Webcam,Electronics,8,71.84,0.0,574.72,352,222.72
+ORD0111,2025-09-05,Western,Corporate,Monitor,Electronics,5,226.01,0.15,960.54,725,235.54
+ORD0101,2025-09-05,Western,Retail,Standing Desk,Furniture,8,441.89,0.1,3181.61,2320,861.61
+ORD0037,2025-09-06,Nairobi,Online,Notebook Pack,Office,8,12.7,0.0,101.6,32,69.6
+ORD0086,2025-09-07,Nairobi,Retail,Monitor,Electronics,4,207.84,0.05,789.79,580,209.79
+ORD0204,2025-09-07,Western,Online,Webcam,Electronics,5,74.51,0.0,372.55,220,152.55
+ORD0577,2025-09-08,Rift Valley,Retail,Keyboard,Accessories,2,35.64,0.0,71.28,32,39.28
+ORD0174,2025-09-08,Central,Online,Wireless Mouse,Accessories,7,20.36,0.05,135.39,63,72.39
+ORD0106,2025-09-08,Rift Valley,Retail,Notebook Pack,Office,4,12.28,0.1,44.21,16,28.21
+ORD0423,2025-09-08,Rift Valley,Corporate,Keyboard,Accessories,5,33.25,0.0,166.25,80,86.25
+ORD0099,2025-09-08,Rift Valley,Corporate,Notebook Pack,Office,2,12.88,0.1,23.18,8,15.18
+ORD0426,2025-09-08,Coast,Retail,Office Chair,Furniture,3,186.94,0.0,560.82,345,215.82
+ORD0186,2025-09-09,Central,Corporate,Wireless Mouse,Accessories,8,23.41,0.0,187.28,72,115.28
+ORD0522,2025-09-10,Nairobi,Retail,Notebook Pack,Office,7,12.09,0.05,80.4,28,52.4
+ORD0172,2025-09-10,Western,Online,USB-C Hub,Electronics,2,62.24,0.0,124.48,70,54.48
+ORD0319,2025-09-11,Nairobi,Retail,Notebook Pack,Office,3,12.72,0.05,36.25,12,24.25
+ORD0155,2025-09-12,Central,Retail,Monitor,Electronics,3,208.69,0.0,626.07,435,191.07
+ORD0139,2025-09-13,Rift Valley,Retail,Keyboard,Accessories,5,36.15,0.15,153.64,80,73.64
+ORD0267,2025-09-13,Central,Corporate,Keyboard,Accessories,7,32.86,0.15,195.52,112,83.52
+ORD0500,2025-09-13,Nairobi,Retail,USB-C Hub,Electronics,7,64.78,0.15,385.44,245,140.44
+ORD0364,2025-09-13,Rift Valley,Corporate,Monitor,Electronics,6,218.85,0.05,1247.44,870,377.44
+ORD0021,2025-09-14,Central,Corporate,USB-C Hub,Electronics,3,69.29,0.15,176.69,105,71.69
+ORD0381,2025-09-14,Coast,Online,Wireless Mouse,Accessories,6,20.58,0.0,123.48,54,69.48
+ORD0503,2025-09-15,Nairobi,Retail,Webcam,Electronics,6,75.14,0.1,405.76,264,141.76
+ORD0538,2025-09-15,Rift Valley,Online,Laptop Stand,Accessories,3,30.01,0.0,90.03,36,54.03
+ORD0051,2025-09-16,Nairobi,Online,USB-C Hub,Electronics,8,69.22,0.05,526.07,280,246.07
+ORD0421,2025-09-19,Western,Retail,Keyboard,Accessories,7,35.54,0.1,223.9,112,111.9
+ORD0559,2025-09-20,Coast,Corporate,Notebook Pack,Office,1,11.95,0.0,11.95,4,7.95
+ORD0360,2025-09-20,Rift Valley,Retail,Desk Lamp,Office,8,39.3,0.1,282.96,168,114.96
+ORD0551,2025-09-22,Coast,Online,Office Chair,Furniture,6,185.45,0.0,1112.7,690,422.7
+ORD0413,2025-09-22,Western,Retail,Monitor,Electronics,3,198.58,0.15,506.38,435,71.38
+ORD0565,2025-09-22,Western,Retail,Keyboard,Accessories,4,36.71,0.0,146.84,64,82.84
+ORD0582,2025-09-24,Coast,Retail,Office Chair,Furniture,6,196.48,0.1,1060.99,690,370.99
+ORD0080,2025-09-24,Nairobi,Corporate,USB-C Hub,Electronics,8,62.66,0.0,501.28,280,221.28
+ORD0350,2025-09-26,Central,Retail,Notebook Pack,Office,6,11.82,0.1,63.83,24,39.83
+ORD0372,2025-09-27,Rift Valley,Online,Webcam,Electronics,5,75.1,0.05,356.72,220,136.72
+ORD0026,2025-09-28,Coast,Corporate,USB-C Hub,Electronics,7,69.46,0.0,486.22,245,241.22
+ORD0482,2025-09-29,Nairobi,Online,Monitor,Electronics,4,209.73,0.1,755.03,580,175.03
+ORD0041,2025-09-29,Nairobi,Online,Standing Desk,Furniture,3,450.96,0.0,1352.88,870,482.88
+ORD0207,2025-09-30,Central,Online,Notebook Pack,Office,4,12.11,0.15,41.17,16,25.17
+ORD0433,2025-09-30,Central,Corporate,Desk Lamp,Office,5,42.26,0.15,179.6,105,74.6
+ORD0011,2025-10-01,Central,Corporate,Keyboard,Accessories,4,34.79,0.0,139.16,64,75.16
+ORD0489,2025-10-02,Rift Valley,Retail,Wireless Mouse,Accessories,6,21.83,0.0,130.98,54,76.98
+ORD0351,2025-10-03,Central,Corporate,Keyboard,Accessories,8,36.96,0.0,295.68,128,167.68
+ORD0463,2025-10-03,Nairobi,Corporate,Standing Desk,Furniture,3,392.02,0.05,1117.26,870,247.26
+ORD0346,2025-10-04,Central,Online,Monitor,Electronics,4,197.91,0.0,791.64,580,211.64
+ORD0366,2025-10-05,Nairobi,Corporate,Keyboard,Accessories,1,32.39,0.15,27.53,16,11.53
+ORD0509,2025-10-05,Nairobi,Online,Office Chair,Furniture,5,184.72,0.0,923.6,575,348.6
+ORD0040,2025-10-05,Western,Retail,Webcam,Electronics,1,72.47,0.05,68.85,44,24.85
+ORD0403,2025-10-06,Western,Corporate,Notebook Pack,Office,1,12.39,0.05,11.77,4,7.77
+ORD0460,2025-10-07,Nairobi,Online,Desk Lamp,Office,3,45.05,0.1,121.63,63,58.63
+ORD0428,2025-10-09,Western,Retail,Office Chair,Furniture,2,173.58,0.15,295.09,230,65.09
+ORD0529,2025-10-09,Nairobi,Retail,Webcam,Electronics,8,72.44,0.0,579.52,352,227.52
+ORD0133,2025-10-09,Central,Retail,Notebook Pack,Office,1,11.21,0.1,10.09,4,6.09
+ORD0019,2025-10-11,Western,Retail,USB-C Hub,Electronics,1,66.89,0.0,66.89,35,31.89
+ORD0220,2025-10-11,Western,Corporate,Webcam,Electronics,1,83.1,0.1,74.79,44,30.79
+ORD0105,2025-10-12,Nairobi,Online,USB-C Hub,Electronics,1,69.66,0.15,59.21,35,24.21
+ORD0388,2025-10-12,Central,Corporate,Standing Desk,Furniture,7,388.16,0.0,2717.12,2030,687.12
+ORD0541,2025-10-12,Central,Corporate,Notebook Pack,Office,7,11.67,0.15,69.44,28,41.44
+ORD0167,2025-10-13,Nairobi,Retail,Notebook Pack,Office,6,12.56,0.0,75.36,24,51.36
+ORD0309,2025-10-13,Central,Retail,USB-C Hub,Electronics,5,69.59,0.0,347.95,175,172.95
+ORD0077,2025-10-13,Rift Valley,Corporate,Laptop Stand,Accessories,4,27.8,0.0,111.2,48,63.2
+ORD0118,2025-10-13,Western,Online,Wireless Mouse,Accessories,7,22.34,0.15,132.92,63,69.92
+ORD0078,2025-10-14,Western,Retail,Standing Desk,Furniture,6,427.57,0.1,2308.88,1740,568.88
+ORD0390,2025-10-14,Rift Valley,Online,Wireless Mouse,Accessories,4,22.07,0.15,75.04,36,39.04
+ORD0170,2025-10-15,Nairobi,Corporate,Webcam,Electronics,6,74.52,0.15,380.05,264,116.05
+ORD0294,2025-10-15,Nairobi,Retail,Webcam,Electronics,4,78.66,0.05,298.91,176,122.91
+ORD0563,2025-10-15,Rift Valley,Online,Desk Lamp,Office,5,43.24,0.05,205.39,105,100.39
+ORD0376,2025-10-17,Coast,Online,Desk Lamp,Office,2,44.82,0.15,76.19,42,34.19
+ORD0264,2025-10-18,Rift Valley,Retail,Notebook Pack,Office,1,11.33,0.15,9.63,4,5.63
+ORD0471,2025-10-18,Nairobi,Corporate,Office Chair,Furniture,3,174.86,0.05,498.35,345,153.35
+ORD0120,2025-10-19,Nairobi,Online,USB-C Hub,Electronics,1,69.79,0.15,59.32,35,24.32
+ORD0282,2025-10-20,Rift Valley,Corporate,Monitor,Electronics,7,214.67,0.15,1277.29,1015,262.29
+ORD0537,2025-10-21,Rift Valley,Corporate,Office Chair,Furniture,4,179.05,0.1,644.58,460,184.58
+ORD0497,2025-10-21,Rift Valley,Corporate,Keyboard,Accessories,7,34.98,0.1,220.37,112,108.37
+ORD0437,2025-10-23,Nairobi,Corporate,Keyboard,Accessories,5,34.3,0.1,154.35,80,74.35
+ORD0334,2025-10-26,Rift Valley,Online,Monitor,Electronics,8,223.4,0.0,1787.2,1160,627.2
+ORD0543,2025-10-26,Nairobi,Retail,Webcam,Electronics,2,78.78,0.0,157.56,88,69.56
+ORD0495,2025-10-26,Nairobi,Online,Wireless Mouse,Accessories,5,20.32,0.0,101.6,45,56.6
+ORD0505,2025-10-27,Coast,Retail,Desk Lamp,Office,4,39.31,0.0,157.24,84,73.24
+ORD0379,2025-10-28,Central,Online,Monitor,Electronics,3,224.41,0.1,605.91,435,170.91
+ORD0211,2025-10-29,Central,Corporate,Notebook Pack,Office,7,11.19,0.15,66.58,28,38.58
+ORD0454,2025-10-29,Central,Online,Wireless Mouse,Accessories,7,23.63,0.05,157.14,63,94.14
+ORD0300,2025-10-31,Western,Retail,USB-C Hub,Electronics,6,68.41,0.15,348.89,210,138.89
+ORD0280,2025-10-31,Western,Retail,Keyboard,Accessories,3,35.89,0.0,107.67,48,59.67
+ORD0042,2025-11-01,Western,Online,Wireless Mouse,Accessories,2,21.66,0.0,43.32,18,25.32
+ORD0043,2025-11-01,Western,Corporate,Webcam,Electronics,1,72.78,0.15,61.86,44,17.86
+ORD0018,2025-11-02,Rift Valley,Corporate,Notebook Pack,Office,2,11.77,0.1,21.19,8,13.19
+ORD0292,2025-11-02,Nairobi,Retail,Office Chair,Furniture,8,186.09,0.05,1414.28,920,494.28
+ORD0389,2025-11-02,Rift Valley,Retail,Wireless Mouse,Accessories,6,20.28,0.1,109.51,54,55.51
+ORD0418,2025-11-02,Nairobi,Retail,Desk Lamp,Office,7,41.28,0.15,245.62,147,98.62
+ORD0402,2025-11-03,Western,Corporate,Office Chair,Furniture,8,182.06,0.15,1238.01,920,318.01
+ORD0560,2025-11-04,Central,Corporate,Keyboard,Accessories,1,33.61,0.0,33.61,16,17.61
+ORD0510,2025-11-05,Nairobi,Retail,Monitor,Electronics,4,210.89,0.0,843.56,580,263.56
+ORD0320,2025-11-05,Western,Corporate,Webcam,Electronics,2,75.31,0.05,143.09,88,55.09
+ORD0297,2025-11-05,Nairobi,Online,Monitor,Electronics,7,194.55,0.15,1157.57,1015,142.57
+ORD0003,2025-11-05,Western,Retail,Standing Desk,Furniture,1,399.76,0.15,339.8,290,49.8
+ORD0382,2025-11-06,Central,Retail,Desk Lamp,Office,7,38.84,0.05,258.29,147,111.29
+ORD0128,2025-11-06,Western,Corporate,Desk Lamp,Office,5,39.25,0.0,196.25,105,91.25
+ORD0022,2025-11-08,Coast,Corporate,Standing Desk,Furniture,4,411.53,0.0,1646.12,1160,486.12
+ORD0103,2025-11-09,Central,Online,Webcam,Electronics,7,72.12,0.05,479.6,308,171.6
+ORD0299,2025-11-10,Western,Corporate,Desk Lamp,Office,6,41.28,0.0,247.68,126,121.68
+ORD0306,2025-11-10,Western,Online,Standing Desk,Furniture,8,433.83,0.0,3470.64,2320,1150.64
+ORD0273,2025-11-10,Rift Valley,Corporate,Keyboard,Accessories,2,33.93,0.0,67.86,32,35.86
+ORD0466,2025-11-10,Coast,Online,Office Chair,Furniture,1,189.92,0.05,180.42,115,65.42
+ORD0415,2025-11-11,Rift Valley,Online,Laptop Stand,Accessories,4,28.41,0.1,102.28,48,54.28
+ORD0197,2025-11-11,Central,Online,Webcam,Electronics,1,83.35,0.15,70.85,44,26.85
+ORD0231,2025-11-13,Coast,Online,Desk Lamp,Office,3,41.17,0.15,104.98,63,41.98
+ORD0162,2025-11-14,Nairobi,Retail,Monitor,Electronics,5,214.31,0.0,1071.55,725,346.55
+ORD0093,2025-11-15,Nairobi,Corporate,Laptop Stand,Accessories,3,26.33,0.0,78.99,36,42.99
+ORD0046,2025-11-15,Western,Retail,Office Chair,Furniture,2,186.11,0.0,372.22,230,142.22
+ORD0349,2025-11-17,Central,Corporate,Keyboard,Accessories,7,34.98,0.15,208.13,112,96.13
+ORD0150,2025-11-17,Nairobi,Online,Desk Lamp,Office,8,38.88,0.15,264.38,168,96.38
+ORD0446,2025-11-17,Nairobi,Corporate,Notebook Pack,Office,5,11.86,0.0,59.3,20,39.3
+ORD0279,2025-11-17,Western,Corporate,Keyboard,Accessories,5,35.19,0.15,149.56,80,69.56
+ORD0470,2025-11-18,Central,Online,Webcam,Electronics,2,77.44,0.1,139.39,88,51.39
+ORD0137,2025-11-19,Nairobi,Corporate,Laptop Stand,Accessories,4,27.15,0.0,108.6,48,60.6
+ORD0075,2025-11-19,Coast,Online,Notebook Pack,Office,4,11.99,0.1,43.16,16,27.16
+ORD0252,2025-11-20,Rift Valley,Online,Office Chair,Furniture,3,172.07,0.0,516.21,345,171.21
+ORD0217,2025-11-20,Central,Corporate,Office Chair,Furniture,5,187.71,0.05,891.62,575,316.62
+ORD0555,2025-11-22,Rift Valley,Corporate,Notebook Pack,Office,2,11.5,0.0,23.0,8,15.0
+ORD0169,2025-11-23,Rift Valley,Online,Notebook Pack,Office,6,12.34,0.0,74.04,24,50.04
+ORD0245,2025-11-24,Rift Valley,Corporate,Notebook Pack,Office,8,11.25,0.0,90.0,32,58.0
+ORD0451,2025-11-25,Nairobi,Corporate,Keyboard,Accessories,3,35.17,0.0,105.51,48,57.51
+ORD0236,2025-11-25,Nairobi,Corporate,Laptop Stand,Accessories,8,28.24,0.05,214.62,96,118.62
+ORD0062,2025-11-25,Nairobi,Online,Desk Lamp,Office,7,40.87,0.15,243.18,147,96.18
+ORD0185,2025-11-26,Rift Valley,Retail,Office Chair,Furniture,1,199.76,0.0,199.76,115,84.76
+ORD0216,2025-11-26,Nairobi,Retail,Webcam,Electronics,6,73.64,0.05,419.75,264,155.75
+ORD0219,2025-11-27,Rift Valley,Retail,Wireless Mouse,Accessories,2,22.33,0.15,37.96,18,19.96
+ORD0405,2025-11-27,Rift Valley,Online,Webcam,Electronics,7,83.81,0.05,557.34,308,249.34
+ORD0266,2025-11-29,Nairobi,Corporate,Desk Lamp,Office,5,45.09,0.0,225.45,105,120.45
+ORD0444,2025-11-29,Central,Online,Keyboard,Accessories,5,37.1,0.0,185.5,80,105.5
+ORD0130,2025-11-30,Western,Retail,Standing Desk,Furniture,8,398.6,0.05,3029.36,2320,709.36
+ORD0523,2025-11-30,Nairobi,Retail,Webcam,Electronics,4,77.39,0.0,309.56,176,133.56
+ORD0036,2025-11-30,Coast,Online,Laptop Stand,Accessories,1,29.91,0.0,29.91,12,17.91
+ORD0374,2025-12-01,Rift Valley,Corporate,Wireless Mouse,Accessories,1,21.67,0.0,21.67,9,12.67
+ORD0425,2025-12-01,Rift Valley,Corporate,Standing Desk,Furniture,8,432.41,0.1,3113.35,2320,793.35
+ORD0313,2025-12-02,Western,Retail,Office Chair,Furniture,5,176.53,0.1,794.38,575,219.38
+ORD0474,2025-12-02,Rift Valley,Corporate,Standing Desk,Furniture,7,408.03,0.0,2856.21,2030,826.21
+ORD0189,2025-12-02,Coast,Retail,Wireless Mouse,Accessories,4,21.83,0.1,78.59,36,42.59
+ORD0378,2025-12-03,Central,Online,Webcam,Electronics,1,83.35,0.0,83.35,44,39.35
+ORD0195,2025-12-03,Central,Corporate,Keyboard,Accessories,8,36.94,0.0,295.52,128,167.52
+ORD0250,2025-12-03,Central,Online,Monitor,Electronics,2,217.9,0.15,370.43,290,80.43
+ORD0199,2025-12-03,Nairobi,Online,Webcam,Electronics,7,73.53,0.0,514.71,308,206.71
+ORD0061,2025-12-04,Nairobi,Retail,Laptop Stand,Accessories,4,27.23,0.1,98.03,48,50.03
+ORD0072,2025-12-04,Western,Retail,Keyboard,Accessories,2,35.09,0.05,66.67,32,34.67
+ORD0098,2025-12-05,Central,Online,Notebook Pack,Office,6,12.01,0.0,72.06,24,48.06
+ORD0532,2025-12-05,Rift Valley,Online,Office Chair,Furniture,5,189.2,0.0,946.0,575,371.0
+ORD0384,2025-12-05,Central,Online,Webcam,Electronics,7,81.4,0.0,569.8,308,261.8
+ORD0177,2025-12-06,Nairobi,Retail,Wireless Mouse,Accessories,4,23.66,0.15,80.44,36,44.44
+ORD0598,2025-12-06,Rift Valley,Corporate,Keyboard,Accessories,3,34.2,0.05,97.47,48,49.47
+ORD0226,2025-12-06,Rift Valley,Online,Webcam,Electronics,3,75.63,0.05,215.55,132,83.55
+ORD0067,2025-12-06,Rift Valley,Retail,Desk Lamp,Office,2,42.05,0.05,79.89,42,37.89
+ORD0191,2025-12-07,Rift Valley,Online,Desk Lamp,Office,5,45.05,0.05,213.99,105,108.99
+ORD0156,2025-12-08,Western,Online,USB-C Hub,Electronics,1,69.17,0.1,62.25,35,27.25
+ORD0594,2025-12-09,Western,Online,Webcam,Electronics,8,83.61,0.0,668.88,352,316.88
+ORD0087,2025-12-09,Coast,Corporate,Desk Lamp,Office,7,44.29,0.0,310.03,147,163.03
+ORD0129,2025-12-11,Coast,Retail,Laptop Stand,Accessories,5,25.94,0.15,110.25,60,50.25
+ORD0345,2025-12-11,Rift Valley,Retail,Webcam,Electronics,1,81.0,0.0,81.0,44,37.0
+ORD0323,2025-12-12,Rift Valley,Retail,Webcam,Electronics,4,79.38,0.0,317.52,176,141.52
+ORD0069,2025-12-13,Rift Valley,Corporate,Notebook Pack,Office,3,12.13,0.15,30.93,12,18.93
+ORD0562,2025-12-13,Western,Corporate,USB-C Hub,Electronics,7,60.86,0.15,362.12,245,117.12
+ORD0262,2025-12-14,Western,Corporate,Standing Desk,Furniture,3,395.99,0.0,1187.97,870,317.97
+ORD0304,2025-12-15,Nairobi,Online,Keyboard,Accessories,4,35.41,0.0,141.64,64,77.64
+ORD0448,2025-12-15,Central,Online,Standing Desk,Furniture,8,386.94,0.0,3095.52,2320,775.52
+ORD0566,2025-12-15,Central,Retail,Desk Lamp,Office,3,43.04,0.0,129.12,63,66.12
+ORD0275,2025-12-15,Western,Corporate,Office Chair,Furniture,6,196.19,0.0,1177.14,690,487.14
+ORD0546,2025-12-15,Central,Corporate,Webcam,Electronics,7,76.7,0.0,536.9,308,228.9
+ORD0442,2025-12-16,Rift Valley,Online,Desk Lamp,Office,1,39.31,0.0,39.31,21,18.31
+ORD0340,2025-12-16,Western,Retail,Wireless Mouse,Accessories,3,20.66,0.05,58.88,27,31.88
+ORD0097,2025-12-17,Central,Corporate,USB-C Hub,Electronics,2,67.94,0.15,115.5,70,45.5
+ORD0453,2025-12-18,Nairobi,Online,Webcam,Electronics,8,72.84,0.0,582.72,352,230.72
+ORD0516,2025-12-19,Nairobi,Corporate,USB-C Hub,Electronics,5,61.65,0.0,308.25,175,133.25
+ORD0407,2025-12-19,Rift Valley,Corporate,Webcam,Electronics,4,76.43,0.1,275.15,176,99.15
+ORD0557,2025-12-19,Nairobi,Online,USB-C Hub,Electronics,2,60.09,0.05,114.17,70,44.17
+ORD0310,2025-12-20,Western,Corporate,Monitor,Electronics,8,209.32,0.05,1590.83,1160,430.83
+ORD0408,2025-12-20,Rift Valley,Online,Webcam,Electronics,3,84.21,0.05,240.0,132,108.0
+ORD0400,2025-12-21,Coast,Corporate,USB-C Hub,Electronics,2,66.8,0.1,120.24,70,50.24
+ORD0149,2025-12-21,Western,Retail,Webcam,Electronics,7,82.39,0.0,576.73,308,268.73
+ORD0327,2025-12-21,Rift Valley,Retail,Desk Lamp,Office,4,43.13,0.0,172.52,84,88.52
+ORD0152,2025-12-22,Nairobi,Retail,Keyboard,Accessories,5,32.46,0.0,162.3,80,82.3
+ORD0397,2025-12-22,Central,Retail,USB-C Hub,Electronics,8,67.93,0.15,461.92,280,181.92
+ORD0515,2025-12-22,Coast,Retail,Standing Desk,Furniture,6,431.12,0.0,2586.72,1740,846.72
+ORD0449,2025-12-22,Rift Valley,Online,Notebook Pack,Office,3,11.18,0.1,30.19,12,18.19
+ORD0039,2025-12-23,Coast,Online,Notebook Pack,Office,8,11.4,0.0,91.2,32,59.2
+ORD0068,2025-12-23,Rift Valley,Corporate,Notebook Pack,Office,5,11.28,0.15,47.94,20,27.94
+ORD0314,2025-12-23,Western,Online,Standing Desk,Furniture,5,393.74,0.0,1968.7,1450,518.7
+ORD0114,2025-12-24,Nairobi,Corporate,USB-C Hub,Electronics,3,60.87,0.1,164.35,105,59.35
+ORD0171,2025-12-25,Nairobi,Online,Office Chair,Furniture,5,173.65,0.1,781.43,575,206.43
+ORD0059,2025-12-26,Rift Valley,Online,Keyboard,Accessories,2,37.08,0.1,66.74,32,34.74
+ORD0508,2025-12-27,Western,Online,Laptop Stand,Accessories,6,28.28,0.15,144.23,72,72.23
+ORD0513,2025-12-27,Central,Retail,Desk Lamp,Office,7,39.32,0.15,233.95,147,86.95
+ORD0048,2025-12-27,Western,Online,Standing Desk,Furniture,5,452.51,0.15,1923.17,1450,473.17
+ORD0358,2025-12-27,Western,Retail,Webcam,Electronics,4,83.18,0.1,299.45,176,123.45
+ORD0242,2025-12-28,Nairobi,Online,Keyboard,Accessories,8,35.65,0.1,256.68,128,128.68
+ORD0113,2025-12-29,Nairobi,Corporate,Laptop Stand,Accessories,3,25.96,0.05,73.99,36,37.99
+ORD0065,2025-12-29,Western,Corporate,Laptop Stand,Accessories,7,28.09,0.0,196.63,84,112.63
+ORD0227,2025-12-29,Central,Online,Webcam,Electronics,2,78.74,0.05,149.61,88,61.61
+ORD0467,2025-12-29,Central,Corporate,Laptop Stand,Accessories,3,26.49,0.0,79.47,36,43.47
+ORD0552,2025-12-30,Western,Corporate,USB-C Hub,Electronics,7,67.92,0.0,475.44,245,230.44
+ORD0270,2025-12-30,Central,Online,Desk Lamp,Office,2,42.28,0.15,71.88,42,29.88
+ORD0436,2025-12-31,Rift Valley,Retail,Keyboard,Accessories,6,36.46,0.0,218.76,96,122.76
